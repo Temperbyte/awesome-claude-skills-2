@@ -175,6 +175,7 @@
 - [claude-ally-health](https://github.com/huifer/Claude-Ally-Health) - A comprehensive health assistant for Claude to analyze medical reports, track health metrics, and provide personalized wellness suggestions.
 - [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) - Personal genome analysis toolkit that processes raw DNA data from 23andMe/AncestryDNA across 17 categories (health, ancestry, nutrition, pharmacogenomics, longevity, etc.) and generates a terminal-style HTML dashboard.
 - [Satori](https://github.com/MetcalfSolutions/Satori) - Clinically informed wisdom companion blending IFS, DBT, Stoicism, Buddhism, and six other traditions into a structured thinking partner.
+- [checkin-analyzer-lite](https://github.com/Temperbyte/temperbyte-skills./tree/main/skills/checkin-analyzer-lite) - Reviews a fitness coaching client's weekly check-in with weekly-average weight trend math, a hold or adjust decision, red flags to act on, and a short reply draft.
 
 
 ## 🤝 Collaboration & Project Management
